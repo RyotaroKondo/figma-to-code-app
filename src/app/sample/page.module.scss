@@ -1,5 +1,5 @@
-$primary-color: #64ff00;
- 
 :export {
-  primaryColor: $primary-color;
+  primaryColor: $color-usage-body-text;
+  bodyText: $color-base-gray-light;
+  bodyTextDark: $color-base-gray-dark;
 }

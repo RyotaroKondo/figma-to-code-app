@@ -1,0 +1,15 @@
+/* styles/Button.module.scss */
+.button {
+    background-color: $color-usage-button-primary;
+    color: $color-white;
+    padding: $primitive-master-spacing-spacing-8 $primitive-master-spacing-spacing-200;
+    border-radius: $primitive-master-spacing-spacing-8;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+        background-color: $color-usage-button-primary-hover;
+    }
+}
