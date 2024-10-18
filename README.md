@@ -41,4 +41,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 sudo npx create-next-app@latest
 sudo chown -R $(whoami) [PATH]/figma-to-code-app
 npm run dev
+
+npm install sass --save-dev
+npm install -D typed-scss-modules
+# stylelint
+npm install --save-dev stylelint stylelint-config-standard-scss stylelint-config-recess-order
 ```

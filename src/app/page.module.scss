@@ -1,0 +1,10 @@
+// .main {
+//   background-color: $color-blue01;
+// }
+
+
+$primary-color: #64ff00;
+ 
+:export {
+  primaryColor: $primary-color;
+}
