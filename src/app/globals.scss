@@ -6,5 +6,23 @@
 
 html,
 body {
-  background-color: $color-base-gray-light;
+  background-color: $color-usage-background;
+}
+
+div {
+  margin: $primitive-master-spacing-spacing-6;
+}
+
+ul, ol,
+li {
+  margin: $spacing-contents-row-gap $spacing-contents-column-gap;
+}
+
+ul{
+  padding-left:0;
+  display: flex;
+}
+
+li{
+  list-style:none;
 }

@@ -1,15 +1,57 @@
 /* styles/Button.module.scss */
-.button {
-    background-color: $color-usage-button-primary;
-    color: $color-white;
-    padding: $primitive-master-spacing-spacing-8 $primitive-master-spacing-spacing-200;
-    border-radius: $primitive-master-spacing-spacing-8;
-    font-size: 16px;
-    cursor: pointer;
-    border: none;
-    transition: background-color 0.3s ease;
+// .button {
+//     background-color: $color-usage-button-primary;
+//     color: $color-white;
+//     padding: $primitive-master-spacing-spacing-8 $primitive-master-spacing-spacing-200;
+//     border-radius: $primitive-master-spacing-spacing-8;
+//     font-size: 16px;
+//     cursor: pointer;
+//     border: none;
+//     transition: background-color 0.3s ease;
   
+//     &:hover {
+//         background-color: $color-usage-button-primary-hover;
+//     }
+// }
+
+.buttonPrimaryM {
+    display: inline-flex;
+    min-height: 40px;
+    padding: $primitive-master-spacing-spacing-8 $primitive-master-spacing-spacing-24;
+    justify-content: center;
+    align-items: center;
+    gap: $primitive-master-spacing-spacing-8;
+    color: $color-white;
+    border: none;
+
+    border-radius: $primitive-master-spacing-spacing-6;
+    background: $color-usage-button-primary;
+
     &:hover {
-        background-color: $color-usage-button-primary-hover;
+        background: $color-usage-button-primary-hover;
+    }
+    &:disabled {
+        background: $color-usage-button-disable;
+    }
+}
+
+.buttonAccentM {
+    display: inline-flex;
+    min-height: 40px;
+    padding: $primitive-master-spacing-spacing-8 $primitive-master-spacing-spacing-24;
+    justify-content: center;
+    align-items: center;
+    gap: $primitive-master-spacing-spacing-8;
+    color: $color-white;
+    border: none;
+
+    border-radius: $primitive-master-spacing-spacing-6;
+    background: $color-primitive-accent-800;
+
+    &:hover {
+        background: $color-usage-button-accent-hover;
+    }
+    &:disabled {
+        background: $color-usage-button-disable;
     }
 }

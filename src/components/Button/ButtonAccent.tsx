@@ -7,12 +7,12 @@ interface ButtonProps {
   onClick?: () => void;
 }
 
-const Button1 = forwardRef<HTMLButtonElement, ButtonProps>(
+const ButtonAccent = forwardRef<HTMLButtonElement, ButtonProps>(
   ({ children, disabled = false, onClick }, ref: Ref<HTMLButtonElement>) => {
     return (
       <button 
         ref={ref} 
-        className={styles.buttonPrimaryM} 
+        className={styles.buttonAccentM} 
         disabled={disabled}
         onClick={onClick}
       >
@@ -22,5 +22,5 @@ const Button1 = forwardRef<HTMLButtonElement, ButtonProps>(
   }
 );
 
-Button1.displayName = 'Button1';
-export default Button1;
+ButtonAccent.displayName = 'ButtonAccent';
+export default ButtonAccent;
