@@ -1,0 +1,621 @@
+{
+  "primitive": {
+    "master_spacing": {
+      "spacing_2": {
+        "type": "dimension",
+        "value": 2,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:831",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_4": {
+        "type": "dimension",
+        "value": 4,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:832",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_6": {
+        "type": "dimension",
+        "value": 6,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:833",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_8": {
+        "type": "dimension",
+        "value": 8,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:834",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_12": {
+        "type": "dimension",
+        "value": 12,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:835",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_16": {
+        "type": "dimension",
+        "value": 16,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:836",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_24": {
+        "type": "dimension",
+        "value": 24,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:837",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_32": {
+        "type": "dimension",
+        "value": 32,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:838",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_40": {
+        "type": "dimension",
+        "value": 40,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:839",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_48": {
+        "type": "dimension",
+        "value": 48,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:840",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_56": {
+        "type": "dimension",
+        "value": 56,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:841",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_64": {
+        "type": "dimension",
+        "value": 64,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:842",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_72": {
+        "type": "dimension",
+        "value": 72,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:843",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_80": {
+        "type": "dimension",
+        "value": 80,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:844",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_96": {
+        "type": "dimension",
+        "value": 96,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:845",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_120": {
+        "type": "dimension",
+        "value": 120,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1819:846",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "spacing_200": {
+        "type": "dimension",
+        "value": 200,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "WIDTH_HEIGHT",
+              "GAP"
+            ],
+            "variableId": "VariableID:1819:847",
+            "exportKey": "variables"
+          }
+        }
+      }
+    },
+    "master_radius": {
+      "radius-_2": {
+        "description": "小さなラベル、タグ。ボタンではないパーツ。",
+        "type": "dimension",
+        "value": 2,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "variableId": "VariableID:1887:387",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_4": {
+        "description": "ラベル、フォーム、小サイズ程度ボタン",
+        "type": "dimension",
+        "value": 4,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:388",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_6": {
+        "description": "中サイズ程度ボタン",
+        "type": "dimension",
+        "value": 6,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:389",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_12": {
+        "description": "トースト、小サイズカード",
+        "type": "dimension",
+        "value": 12,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:390",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_16": {
+        "description": "中サイズ程度カード、モーダルウィンドウなど",
+        "type": "dimension",
+        "value": 16,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:391",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius-999": {
+        "description": "ボタン、タグなど",
+        "type": "dimension",
+        "value": 999,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:392",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_24": {
+        "description": "大サイズカード",
+        "type": "dimension",
+        "value": 24,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:393",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_32": {
+        "description": "コンテンツ、セクションなど。上記パーツ以外の広範囲をまとめる場合",
+        "type": "dimension",
+        "value": 32,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:1887:394",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "radius_8": {
+        "description": "大サイズ程度ボタン",
+        "type": "dimension",
+        "value": 8,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2823:534",
+            "exportKey": "variables"
+          }
+        }
+      }
+    },
+    "master_fontsize": {
+      "fontsize_8": {
+        "type": "dimension",
+        "value": 8,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "FONT_SIZE",
+              "FONT_VARIATIONS"
+            ],
+            "variableId": "VariableID:2307:107",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_10": {
+        "type": "dimension",
+        "value": 10,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:108",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize _12": {
+        "type": "dimension",
+        "value": 12,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:109",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_14": {
+        "type": "dimension",
+        "value": 14,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:110",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_16": {
+        "type": "dimension",
+        "value": 16,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:111",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_18": {
+        "type": "dimension",
+        "value": 18,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:112",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_20": {
+        "type": "dimension",
+        "value": 20,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:113",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_22": {
+        "type": "dimension",
+        "value": 22,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:114",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_24": {
+        "type": "dimension",
+        "value": 24,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:115",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_28": {
+        "type": "dimension",
+        "value": 28,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:116",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_32": {
+        "type": "dimension",
+        "value": 32,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:117",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_40": {
+        "type": "dimension",
+        "value": 40,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:118",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_48": {
+        "type": "dimension",
+        "value": 48,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:2307:119",
+            "exportKey": "variables"
+          }
+        }
+      },
+      "fontsize_36": {
+        "type": "dimension",
+        "value": 36,
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Value",
+            "collection": "primitive",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:3126:2804",
+            "exportKey": "variables"
+          }
+        }
+      }
+    }
+  }
+}
