@@ -35,8 +35,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+# figma-to-code-app
 
+```bash
 sudo npx create-next-app@latest
 sudo chown -R $(whoami) [PATH]/figma-to-code-app
 npm run dev
-# figma-to-code-app
+```
